@@ -8,3 +8,9 @@ p {
     font-size: 50px;
     color: #13b143;
 }
+
+.headshot{
+    width: 200px;
+    height: 200px;
+    border-radius: 30%;
+}
